@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<?xml-stylesheet type="text/xsl" href="filexsl.xsl" ?>
+<ConstructionMaterials>
+    <material id="1">
+
+        <type >Block</type>
+        <country>Belgium</country>
+        <price currency="EUR">30</price>
+        <firm>Rasch</firm>
+        <InternalWork>Yes</InternalWork>
+        <ExternalWork>No</ExternalWork>
+    </material>
+    <material id="2">
+
+        <type >Slate</type>
+        <country>Germany</country>
+        <price currency="EUR">50</price>
+        <firm>DOMSC</firm>
+        <InternalWork>No</InternalWork>
+        <ExternalWork>Yes</ExternalWork>
+    </material>
+</ConstructionMaterials>
